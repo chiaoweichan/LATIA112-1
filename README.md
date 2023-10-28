@@ -7,4 +7,5 @@
 
 ## 課程筆記區
 ## 作業連結區
+hw1(https://github.com/chiaoweichan/LATIA112-1/blob/main/Untitled.ipynb)
 ## 專題連結區

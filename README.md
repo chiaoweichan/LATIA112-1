@@ -15,5 +15,5 @@
 
 [HW4 Code](https://github.com/chiaoweichan/LATIA112-1/commit/a192d8a854de98070a7a73c4f9f8a4bb14d9e304)
 
-[HW4 WebPage]([https://github.com/chiaoweichan/LATIA112-1/commit/a192d8a854de98070a7a73c4f9f8a4bb14d9e304](https://chiaoweichan.github.io/chart/)https://chiaoweichan.github.io/chart/)
+[HW4 WebPage](https://github.com/chiaoweichan/LATIA112-1/commit/a192d8a854de98070a7a73c4f9f8a4bb14d9e304](https://chiaoweichan.github.io/chart/)https://chiaoweichan.github.io/chart/)
 ## 專題連結區

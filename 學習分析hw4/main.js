@@ -195,9 +195,9 @@ traceline_1.y =[];
 traceline_1.text =[];
 
 for(let i=0;i<total_admissions.length;i++){
-    traceline_1.x[i] =total_admissions[i]['0'];
-    traceline_1.y[i] =total_admissions[i]['1'];
-    traceline_1.text[i] =total_admissions[i]['2'];
+    traceline_1.x[i] =total_admissions[i][0];
+    traceline_1.y[i] =total_admissions[i][1];
+    traceline_1.text[i] =total_admissions[i][2];
 }
 
 let traceline_2 ={};
@@ -212,9 +212,9 @@ traceline_2.y =[];
 traceline_2.text =[];
 
 for(let i=0;i<public_admissions.length;i++){
-    traceline_2.x[i] =public_admissions[i]['0'];
-    traceline_2.y[i] =public_admissions[i]['1'];
-    traceline_2.text[i] =public_admissions[i]['2'];
+    traceline_2.x[i] =public_admissions[i][0];
+    traceline_2.y[i] =public_admissions[i][1];
+    traceline_2.text[i] =public_admissions[i][2];
 }
 
 let traceline_3 ={};
@@ -229,9 +229,9 @@ traceline_3.y =[];
 traceline_3.text =[];
 
 for(let i=0;i<private_admissions.length;i++){
-    traceline_3.x[i] =private_admissions[i]['0'];
-    traceline_3.y[i] =private_admissions[i]['1'];
-    traceline_3.text[i] =private_admissions[i]['2'];
+    traceline_3.x[i] =private_admissions[i][0];
+    traceline_3.y[i] =private_admissions[i][1];
+    traceline_3.text[i] =private_admissions[i][2];
 }
 let data_line =[];
 data_line.push(traceline_1);
